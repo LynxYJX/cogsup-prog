@@ -40,6 +40,7 @@ print(product)
 
 print("---")
 
+
 """
 Exercise 3.3
 
