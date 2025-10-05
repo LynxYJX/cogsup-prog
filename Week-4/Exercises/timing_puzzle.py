@@ -1,11 +1,13 @@
 from expyriment import design, control, stimuli
 # screen refresh every 0 - 16.67 msec (~17msec)
 # exp.clock.wait(1000 stops execution for 1 sec; if the screen refresh is ~ 10msec, the result is 1.01 msec
+# 1: Global Setting
 exp = design.Experiment(name="timing puzzle")
 
 control.set_develop_mode()
 control.initialize(exp)
 
+# 2: Stimuli
 fixation = stimuli.FixCross()
 text = stimuli.TextLine("Fixation removed")
 
@@ -23,7 +25,7 @@ exp.clock.wait(1000 - dt)
 
 # text.present()
 t1 = exp.clock.time
-fix_duration = (t1 - t0)/1000
+fix_duration = round((t1 - t0)/1000,3)
 
 # exp.clock.wait(1000)
 t0 = exp.clock.time
