@@ -1,0 +1,65 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: UTF-8
+#date: Sun Oct 12 2025 14:39:20
+#--EXPERIMENT INFO
+#e mainfile: blindspot.py
+#e sha1: aa7f31
+#e modules: 
+#e Experiment: Blindspot
+#e no between subject factors
+#--SUBJECT INFO
+#s id: 1
+subject_id,eye,keypress,r,x_coord,y_coord
+1,right,right,75,305,0
+1,right,right,75,310,0
+1,right,right,75,315,0
+1,right,right,75,320,0
+1,right,right,75,325,0
+1,right,right,75,330,0
+1,right,right,75,335,0
+1,right,right,75,340,0
+1,right,right,75,345,0
+1,right,right,75,350,0
+1,right,1,70,350,0
+1,right,1,65,350,0
+1,right,1,60,350,0
+1,right,1,55,350,0
+1,right,1,50,350,0
+1,right,1,45,350,0
+1,right,1,40,350,0
+1,right,right,40,355,0
+1,right,right,40,360,0
+1,right,right,40,365,0
+1,right,right,40,370,0
+1,right,right,40,375,0
+1,right,right,40,380,0
+1,right,right,40,385,0
+1,left,left,75,-305,0
+1,left,left,75,-310,0
+1,left,left,75,-315,0
+1,left,left,75,-320,0
+1,left,left,75,-325,0
+1,left,left,75,-330,0
+1,left,left,75,-335,0
+1,left,left,75,-340,0
+1,left,left,75,-345,0
+1,left,left,75,-350,0
+1,left,2,80,-350,0
+1,left,2,85,-350,0
+1,left,1,80,-350,0
+1,left,1,75,-350,0
+1,left,1,70,-350,0
+1,left,1,65,-350,0
+1,left,1,60,-350,0
+1,left,1,55,-350,0
+1,left,1,50,-350,0
+1,left,1,45,-350,0
+1,left,1,40,-350,0
+1,left,1,35,-350,0
+1,left,left,35,-355,0
+1,left,left,35,-360,0
+1,left,left,35,-365,0
+1,left,left,35,-370,0
+1,left,left,35,-375,0
+1,left,1,30,-375,0
+1,left,1,25,-375,0
+1,left,1,20,-375,0
